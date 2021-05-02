@@ -1,7 +1,7 @@
 class Github{
     constructor(){
         this.client_id = '2074912dcb6ebe9becdc';
-        this.client_secret = 'dfa13103a4b463b302ad96184ddcba2fc4db4107';
+        this.client_secret = '9528a83e3ecc6dfc9775391c7998ed669dfbf897';
     }
 
     async getUser(user){
